@@ -4,9 +4,10 @@ This repository contains the examinations from the Algorithms course at Blekinge
 
 ## Examinations
 
-### Examination 1: Searching and Finding
-In this examination, we focused on searching algorithms. Key topics included:
+### Examination 1: Sorting and Finding
+In this examination, we focused on searching and sorting algorithms. Key topics included:
 - **Binary Search**: An efficient algorithm for finding an item from a sorted list of items, with a time complexity of O(log n).
+- **Insertion Sort**: An simple sorting algorithm also it is stable, with a time complexity of O(n^2).
 
 ### Examination 2: Data Structures
 This examination delved into essential data structures and their time complexities. Topics covered:
