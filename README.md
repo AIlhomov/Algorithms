@@ -18,7 +18,9 @@ This examination delved into essential data structures and their time complexiti
 ### Examination 3: Graphs and Disjoint Sets
 - **Graphs**: Data structures used to represent pairwise relationships between objects.
 - **Disjoint Sets**: Also known as Union-Find, a data structure that keeps track of a partition of a set into disjoint (non-overlapping) subsets.
-
+- **Minimum Spanning Tree (MST)**: Algorithms to find the MST, including:
+  - **Kruskal's Algorithm**: An algorithm that finds the MST by sorting edges and adding them one by one while avoiding cycles.
+  - **Prim's Algorithm**: An algorithm that finds the MST by growing a single tree and adding the cheapest edge from the tree to a new vertex.
 ## Repository Structure
 
 The repository is structured as follows:
